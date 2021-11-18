@@ -1,0 +1,21 @@
+﻿  ReferencesAgainstTerrorists.cpp
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(68,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(109,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(155,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(162,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(169,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(176,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(190,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(197,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(204,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\ReferencesAgainstTerrorists\ReferencesAgainstTerrorists.cpp(211,23): warning C4018: '<': signed/unsigned mismatch
+  ReferencesAgainstTerrorists.vcxproj -> D:\Visual Studio Projects\ReferencesAgainstTerrorists\Debug\ReferencesAgainstTerrorists.exe
